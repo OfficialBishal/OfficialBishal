@@ -33,7 +33,7 @@ Hi there, I'm **Bishal Shrestha**, a **ML, AI & Data Science Enthusiast + Quantu
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via bishal.modern@gmail.com to reach me.<!-- - 📫 Please email via [![Email](https://img.shields.io/badge/bishal.modern@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bishal.modern@gmail.com) to reach me. -->
-- 📝 See my [Curriculum Vitae]() to get more info.
+- 📝 See my [Curriculum Vitae](https://www.linkedin.com/in/ofclbishal/) to get more info.
 
 
 **Languages and Tools:**  

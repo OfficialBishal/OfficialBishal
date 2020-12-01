@@ -28,7 +28,7 @@ Hi there, I'm **Bishal Shrestha**, a **ML, AI & Data Science Enthusiast + Quantu
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Executive Member [@PACE](https://pace.acem.edu.np) working on different projects;
-- 🌱 I’m currently learning Quantum Computing and Deep Learning; 
+- 🌱 I’m currently building Basic Operating System; 
 - 🤔 My interests are with Quantum Computing, Deep Learning, Machine Learning, Artificial Inelligence, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;

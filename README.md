@@ -9,12 +9,6 @@
 <a href="https://twitter.com/officialbishal">
   <img align="left" alt="Bishal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/officialbishal/">
-  <img align="left" alt="Bishal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/modernbishal">
-  <img align="left" alt="Bishal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 
 <br />

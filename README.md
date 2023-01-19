@@ -26,7 +26,7 @@ Hi there, I'm **Bishal Shrestha**, a **ML, AI & Data Science Enthusiast + Quantu
 - 🤔 My interests are with Quantum Computing, Deep Learning, Machine Learning, Artificial Inelligence, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via bishal.modern@gmail.com to reach me.<!-- - 📫 Please email via [![Email](https://img.shields.io/badge/bishal.modern@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bishal.modern@gmail.com) to reach me. -->
+- 📫 Please email via bishal[dot]modern[at]gmail[dot]com to reach me.<!-- - 📫 Please email via [![Email](https://img.shields.io/badge/bishal.modern@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bishal.modern@gmail.com) to reach me. -->
 - 📝 See my [Curriculum Vitae](https://www.linkedin.com/in/ofclbishal/) to get more info.
 
 

@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Bishal Shrestha**, a **ML, AI & Data Science Enthusiast + Quantum Computing Nerd** and a **Computer Engineering student** 🚀 from Nepal, currently, I'm an Executive Member 🙍🏽‍♂️ [@PACE](https://pace.acem.edu.np).
+Hi there, I'm **Bishal Shrestha**, a **ML, AI & Data Science Enthusiast + Quantum Computing Nerd** and a **Computer Engineer** 🚀 from Nepal.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->

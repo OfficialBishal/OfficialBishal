@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Bishal Shrestha**, a **AI Enthusiast** and currently a **Ph.D. student at the University of Miami**.
+Hi there, I'm **Bishal Shrestha**, an **AI Enthusiast** and currently a **Ph.D. student at the University of Miami**.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
@@ -22,8 +22,8 @@ Hi there, I'm **Bishal Shrestha**, a **AI Enthusiast** and currently a **Ph.D. s
 **Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently Research Assistant at Dr. Zheng's Lab at the University of Miami;
-- 🌱 I’m currently building Basic Operating System; 
-- 🤔 My interests are Quantum Computing, Deep Learning, Machine Learning, Artificial intelligence, etc..;
+- 🌱 I’m working in the field of Bioinformatics; 
+- 🤔 My interests are Deep Learning, Machine Learning, Artificial intelligence, etc..;
 - 💼 I’m pursuing a PhD in Computer Science at the University of Miami;
 - 💬 Ask me about anything; I am happy to help;
 - 📫 Please email via bishal[dot]modern[at]gmail[dot]com to reach me.<!-- - 📫 Please email via [![Email](https://img.shields.io/badge/bishal.modern@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bishal.modern@gmail.com) to reach me. -->
